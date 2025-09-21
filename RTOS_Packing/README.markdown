@@ -5,17 +5,6 @@ This repository hosts the complete technical design document (TDD), source code,
 
 The project tackles key challenges in apartment parking lots, including improper parking space allocation, security vulnerabilities like theft and sabotage, inefficient traffic flow, and inadequate surveillance of incoming/outgoing vehicles. By automating access control, vacancy monitoring, and user notifications, the system enhances security, optimizes space usage, and improves overall user convenience.
 
-**Project Details:**
-- **Project Name**: Management system in apartment car parking lot for pre-registered users
-- **Students**:
-  - [1] Trần Nam Phát (ID: 21119318)
-  - [2] Phan Minh Đức (ID: 21119303)
-  - [3] Nguyễn Thành Giang (ID: 21119304)
-- **Major**: Computer Engineering Technology
-- **Supervisor**: Assoc. Prof. Phan Van Ca
-- **Copyright**: ©2021 CCE Department, HCMUTE
-- **Confidentiality**: Confidential Property of CCE Dept.
-
 ## Terms and Abbreviations
 - **[IOT]**: Internet of Things
 - **[RFID]**: Radio Frequency Identification
