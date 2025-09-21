@@ -1,0 +1,59 @@
+﻿  infer_photo.cpp
+C:\Minh_Duc\MD_Personal\LVTN\MTCNN_SW\MTCNN_SW\face.h(15,68): warning C4244: 'argument': conversion from 'float' to '_Tp', possible loss of data
+C:\Minh_Duc\MD_Personal\LVTN\MTCNN_SW\MTCNN_SW\face.h(15,68): warning C4244:         with
+C:\Minh_Duc\MD_Personal\LVTN\MTCNN_SW\MTCNN_SW\face.h(15,68): warning C4244:         [
+C:\Minh_Duc\MD_Personal\LVTN\MTCNN_SW\MTCNN_SW\face.h(15,68): warning C4244:             _Tp=int
+C:\Minh_Duc\MD_Personal\LVTN\MTCNN_SW\MTCNN_SW\face.h(15,68): warning C4244:         ]
+  (compiling source file 'infer_photo.cpp')
+  
+C:\Minh_Duc\MD_Personal\LVTN\MTCNN_SW\MTCNN_SW\face.h(15,59): warning C4244: 'argument': conversion from 'float' to '_Tp', possible loss of data
+C:\Minh_Duc\MD_Personal\LVTN\MTCNN_SW\MTCNN_SW\face.h(15,59): warning C4244:         with
+C:\Minh_Duc\MD_Personal\LVTN\MTCNN_SW\MTCNN_SW\face.h(15,59): warning C4244:         [
+C:\Minh_Duc\MD_Personal\LVTN\MTCNN_SW\MTCNN_SW\face.h(15,59): warning C4244:             _Tp=int
+C:\Minh_Duc\MD_Personal\LVTN\MTCNN_SW\MTCNN_SW\face.h(15,59): warning C4244:         ]
+  (compiling source file 'infer_photo.cpp')
+  
+C:\Minh_Duc\MD_Personal\LVTN\MTCNN_SW\MTCNN_SW\face.h(15,52): warning C4244: 'argument': conversion from 'const float' to '_Tp', possible loss of data
+C:\Minh_Duc\MD_Personal\LVTN\MTCNN_SW\MTCNN_SW\face.h(15,52): warning C4244:         with
+C:\Minh_Duc\MD_Personal\LVTN\MTCNN_SW\MTCNN_SW\face.h(15,52): warning C4244:         [
+C:\Minh_Duc\MD_Personal\LVTN\MTCNN_SW\MTCNN_SW\face.h(15,52): warning C4244:             _Tp=int
+C:\Minh_Duc\MD_Personal\LVTN\MTCNN_SW\MTCNN_SW\face.h(15,52): warning C4244:         ]
+  (compiling source file 'infer_photo.cpp')
+  
+C:\Minh_Duc\MD_Personal\LVTN\MTCNN_SW\MTCNN_SW\face.h(15,48): warning C4244: 'argument': conversion from 'const float' to '_Tp', possible loss of data
+C:\Minh_Duc\MD_Personal\LVTN\MTCNN_SW\MTCNN_SW\face.h(15,48): warning C4244:         with
+C:\Minh_Duc\MD_Personal\LVTN\MTCNN_SW\MTCNN_SW\face.h(15,48): warning C4244:         [
+C:\Minh_Duc\MD_Personal\LVTN\MTCNN_SW\MTCNN_SW\face.h(15,48): warning C4244:             _Tp=int
+C:\Minh_Duc\MD_Personal\LVTN\MTCNN_SW\MTCNN_SW\face.h(15,48): warning C4244:         ]
+  (compiling source file 'infer_photo.cpp')
+  
+C:\Minh_Duc\MD_Personal\LVTN\MTCNN_SW\MTCNN_SW\face.h(22,39): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'infer_photo.cpp')
+  
+C:\Minh_Duc\MD_Personal\LVTN\MTCNN_SW\MTCNN_SW\face.h(23,39): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'infer_photo.cpp')
+  
+C:\Minh_Duc\MD_Personal\LVTN\MTCNN_SW\MTCNN_SW\face.h(24,44): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'infer_photo.cpp')
+  
+C:\Minh_Duc\MD_Personal\LVTN\MTCNN_SW\MTCNN_SW\face.h(25,44): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'infer_photo.cpp')
+  
+C:\Minh_Duc\MD_Personal\LVTN\MTCNN_SW\MTCNN_SW\face.h(78,26): warning C4267: '=': conversion from 'size_t' to '_Ty', possible loss of data
+C:\Minh_Duc\MD_Personal\LVTN\MTCNN_SW\MTCNN_SW\face.h(78,26): warning C4267:         with
+C:\Minh_Duc\MD_Personal\LVTN\MTCNN_SW\MTCNN_SW\face.h(78,26): warning C4267:         [
+C:\Minh_Duc\MD_Personal\LVTN\MTCNN_SW\MTCNN_SW\face.h(78,26): warning C4267:             _Ty=int
+C:\Minh_Duc\MD_Personal\LVTN\MTCNN_SW\MTCNN_SW\face.h(78,26): warning C4267:         ]
+  (compiling source file 'infer_photo.cpp')
+  
+C:\Minh_Duc\MD_Personal\LVTN\MTCNN_SW\MTCNN_SW\infer_photo.cpp(48,92): warning C4244: 'argument': conversion from 'float' to '_Tp', possible loss of data
+C:\Minh_Duc\MD_Personal\LVTN\MTCNN_SW\MTCNN_SW\infer_photo.cpp(48,92): warning C4244:         with
+C:\Minh_Duc\MD_Personal\LVTN\MTCNN_SW\MTCNN_SW\infer_photo.cpp(48,92): warning C4244:         [
+C:\Minh_Duc\MD_Personal\LVTN\MTCNN_SW\MTCNN_SW\infer_photo.cpp(48,92): warning C4244:             _Tp=int
+C:\Minh_Duc\MD_Personal\LVTN\MTCNN_SW\MTCNN_SW\infer_photo.cpp(48,92): warning C4244:         ]
+C:\Minh_Duc\MD_Personal\LVTN\MTCNN_SW\MTCNN_SW\infer_photo.cpp(48,61): warning C4244: 'argument': conversion from 'float' to '_Tp', possible loss of data
+C:\Minh_Duc\MD_Personal\LVTN\MTCNN_SW\MTCNN_SW\infer_photo.cpp(48,61): warning C4244:         with
+C:\Minh_Duc\MD_Personal\LVTN\MTCNN_SW\MTCNN_SW\infer_photo.cpp(48,61): warning C4244:         [
+C:\Minh_Duc\MD_Personal\LVTN\MTCNN_SW\MTCNN_SW\infer_photo.cpp(48,61): warning C4244:             _Tp=int
+C:\Minh_Duc\MD_Personal\LVTN\MTCNN_SW\MTCNN_SW\infer_photo.cpp(48,61): warning C4244:         ]
+  MTCNN_SW.vcxproj -> C:\Minh_Duc\MD_Personal\LVTN\MTCNN_SW\MTCNN_SW\x64\Debug\MTCNN_SW.exe
