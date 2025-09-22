@@ -179,34 +179,6 @@ graph TD
     R -->|Yes| N
     R -->|No| O
 ```
-
-## 📁 Project Structure
-
-```
-StudentAttendanceSystem/
-├── src/
-│   ├── main.cpp              # Main application logic
-│   ├── userdef.h             # User definitions and headers
-│   └── config.h              # System configuration
-├── libraries/
-│   ├── AT24Cxx/             # EEPROM library
-│   ├── MFRC522/             # RFID reader library
-│   ├── LiquidCrystal_I2C/   # LCD display library
-│   └── Keypad/              # Matrix keypad library
-├── hardware/
-│   ├── schematic.pdf        # Circuit schematic
-│   ├── pcb_layout.pdf       # PCB design files
-│   └── bom.xlsx            # Bill of materials
-├── docs/
-│   ├── user_manual.pdf      # Operating instructions
-│   ├── technical_spec.pdf   # Detailed specifications
-│   └── assembly_guide.pdf   # Hardware assembly guide
-└── examples/
-    ├── rfid_test.cpp        # RFID reader test
-    ├── eeprom_test.cpp      # EEPROM functionality test
-    └── keypad_test.cpp      # Keypad input test
-```
-
 ## ⚙️ Advanced Configuration
 
 ### EEPROM Memory Map
@@ -324,76 +296,6 @@ struct StudentRecord {
 | LEDs (Red/Green) | 2 | 3,000 | 6,000 |
 | **Total Project Cost** | | | **403,000 VND** |
 
-## 👥 Development Team
 
-### Team Members
-- **Tran Nam Phat** (21119318) - System Architecture & EEPROM Integration
-- **Nguyen Thanh Giang** (21119304) - I2C Protocol & LCD Control
-- **Phan Minh Duc** (21119303) - RFID Integration & Alert Systems
 
-### Project Supervision
-- **Supervisor**: Assoc. Prof. Phan Van Ca
-- **Institution**: Ho Chi Minh City University of Technology and Education
-- **Department**: Computer Engineering Technology (CCE)
-- **Academic Program**: Technical Design Document Project
 
-## 📄 Documentation
-
-### Project Deliverables
-- **Technical Design Document**: Complete system specification
-- **User Manual**: Operating instructions and troubleshooting
-- **Source Code**: Full implementation with comments
-- **Hardware Schematics**: Circuit diagrams and PCB layout
-- **Test Reports**: System validation and performance analysis
-
-### Academic Context
-This project demonstrates practical application of:
-- **Embedded Systems Design**: Microcontroller-based solutions
-- **Communication Protocols**: I2C and SPI implementation
-- **Data Management**: Non-volatile memory systems
-- **User Interface Design**: Human-computer interaction
-- **System Integration**: Multi-component hardware/software systems
-
-## 🔒 Security Considerations
-
-### Data Protection
-- **EEPROM Encryption**: Future implementation for sensitive data
-- **Access Control**: Administrative functions protection
-- **Input Validation**: Preventing buffer overflow attacks
-- **Hardware Security**: Physical device protection
-
-### Privacy Compliance
-- **Data Minimization**: Only essential information stored
-- **User Consent**: Clear notification of data collection
-- **Retention Policies**: Configurable data storage duration
-- **Access Logging**: Audit trail for system usage
-
-## 📞 Support & Maintenance
-
-### System Monitoring
-- **Power Supply Health**: Voltage level monitoring
-- **EEPROM Lifecycle**: Write cycle tracking
-- **Component Status**: Regular functionality checks
-- **Performance Metrics**: Response time analysis
-
-### Maintenance Schedule
-- **Weekly**: Visual inspection and cleaning
-- **Monthly**: Connection integrity verification
-- **Quarterly**: EEPROM backup and validation
-- **Annually**: Component replacement assessment
-
-## 📋 License
-
-This project is developed for educational purposes under the supervision of Ho Chi Minh City University of Technology and Education. The implementation is available for academic use with proper attribution.
-
-## 🙏 Acknowledgments
-
-We express gratitude to:
-- Assoc. Prof. Phan Van Ca for project supervision and guidance
-- CCE Department faculty for technical support and resources
-- Colleagues who provided feedback and testing assistance
-- HCMUTE for providing facilities and learning environment
-
----
-
-*For detailed technical implementation, complete source code, and comprehensive documentation, please refer to the project repository and technical design document.*
