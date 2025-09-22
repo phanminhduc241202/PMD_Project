@@ -122,23 +122,6 @@ This project implements an electrical equipment control system designed for home
 | IR Frequency | 38kHz |
 | Operating Temperature | -25°C to 85°C |
 
-## Project Structure
-
-```
-├── Hardware Design/
-│   ├── Schematic diagrams
-│   ├── PCB layout files
-│   └── Component specifications
-├── Software/
-│   ├── Main program code
-│   ├── Library dependencies
-│   └── Configuration files
-└── Documentation/
-    ├── User manual
-    ├── Technical specifications
-    └── Assembly instructions
-```
-
 ## Future Enhancements
 
 ### Planned Features
@@ -170,16 +153,3 @@ This project was developed as part of the Computer Engineering Technology progra
 - Real-time systems
 - Home automation concepts
 
-## License
-
-This project is developed for educational purposes. Feel free to use and modify for personal and educational applications.
-
-## Contributors
-
-- **Student**: Phan Minh Duc (Student ID: 21119303)
-- **Supervisor**: M.S. Nguyen Ngo Lam
-- **Institution**: Faculty of International Education, HCMUTE
-
----
-
-*For detailed technical documentation, circuit diagrams, and complete source code, please refer to the project files in this repository.*
