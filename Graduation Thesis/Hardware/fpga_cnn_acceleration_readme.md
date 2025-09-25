@@ -383,22 +383,3 @@ This research was conducted at Ho Chi Minh City University of Technology and Edu
 2. **On-chip Buffering Strategy**: Novel approach to eliminate memory bottlenecks
 3. **Comprehensive Benchmarking**: Detailed performance analysis across multiple metrics
 4. **Complete System Integration**: End-to-end deployment on Kria KV260 platform
-
-## Author
-
-- **Student**: Tran Nam Phat (21119318)
-- **Supervisor**: Dr. Pham Van Khoa  
-- **Institution**: Ho Chi Minh City University of Technology and Education
-- **Program**: Computer Engineering Technology
-
-## Acknowledgments
-
-Special thanks to Dr. Pham Van Khoa for supervision and guidance, and to colleagues Phan Minh Duc and Nguyen Le Ngoc Tram for collaborative insights during parallel research projects.
-
-## License
-
-This project is developed for educational and research purposes. The implementation techniques and optimizations presented can be adapted for academic and non-commercial use with proper attribution.
-
----
-
-*For detailed implementation guides, synthesis scripts, and comprehensive benchmarking results, please refer to the complete thesis documentation and source code repository.*
